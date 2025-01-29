@@ -64,13 +64,6 @@ Division by zero and overflow cases are handled properly.
 
 ---
 
-## **Project Contributions**  
-| Name | Contribution |  
-|------|-------------|  
-| **Lynn Ariss** | M_Inst Testbench, Debugging, Assembly Code (including ROM integration) |  
-| **Claritta Khoury** | M_Inst Design, Processor Modifications, Schematics, Report |  
-
----
 
 ## **How to Run the Project**  
 1. **Open Vivado** and load `321proj_cmk19_laa100_Sunday.xpr`  
